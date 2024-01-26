@@ -1,5 +1,6 @@
-checkpoints/
-outputs*/
-gradio*/
-pointnet2_ops_lib
 *_rgba.*
+*.pyc
+checkpoints/
+gradio*/
+outputs*/
+pointnet2_ops_lib
